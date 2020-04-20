@@ -1,1 +1,5 @@
-
+body{
+  font-family:Optima; 
+  background-image: url("../images/bg1.jpeg"); 
+  color:white;
+}
